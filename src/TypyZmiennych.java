@@ -29,7 +29,7 @@ public class TypyZmiennych {
 
 
         System.out.println("\nShort");
-        byte myShort = 5;
+        short myShort = 5;
 
         System.out.println(myShort);
 
@@ -40,6 +40,7 @@ public class TypyZmiennych {
 
         System.out.println("\nLong");
         long myLong = 5L;
+        long myLong2 = 223372036854775807L;
 
         System.out.println(myLong);
 
@@ -64,7 +65,7 @@ public class TypyZmiennych {
 
         System.out.println("\nTypy liczbowe - zmiennoprzecinkowe\n");
 
-        float myFloat = 2.5f;
+        float myFloat = 2.5F;
 
         System.out.println(myFloat);
 
